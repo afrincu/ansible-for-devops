@@ -6,7 +6,7 @@ name: Test Ansible Lint
     branches:
       - master
 
-  jobs:
+jobs:
 
   lint:
     name: Lint
